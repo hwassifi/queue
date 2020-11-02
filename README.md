@@ -1,4 +1,4 @@
-# queue
+# tents_a62c
 Lightweight implementation of double-ended queue data structure following GLib interface.
 
 For futher details, please visit :
