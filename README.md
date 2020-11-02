@@ -2,7 +2,7 @@
 
 ## rôle de chacun pour le prochain rendu
 
-* Houssam aura les 7 tests suivants : game game_new(square *squares, uint *nb_tents_row, uint *nb_tents_col);game game_new_empty(void);
+* Houssam aura les 7 tests suivants : game game_new(square *squares, uint *nb_tents_row, uint *nb_tents_col);game game_new_empty(void);game game_copy(cgame g);
 
 * Tom aura les  7 tests suivants :
 
