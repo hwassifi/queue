@@ -2,13 +2,13 @@
 
 ## rôle de chacun pour le prochain rendu
 
-*Houssam aura les tests suivants :
+* Houssam aura les tests suivants :
 
-*Tom aura les tests suivants :
+* Tom aura les tests suivants :
 
-*Karl aura les tests suivants :
+* Karl aura les tests suivants :
 
-*Fernando aura les tests suivants :
+* Fernando aura les tests suivants :
 
 
 
